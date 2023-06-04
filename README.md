@@ -3,4 +3,4 @@ The Blind Assist is an application for helping and assisting the visually impair
 
 ## Here is a demo video of the application
 
-[Demo Video](https://user-images.githubusercontent.com/100118854/202023357-7579a781-9b03-48e2-a153-faef90c7390a.webm)
+[Demo Video](https://github.com/Git-Akshat01/Currency_Recognizer/blob/main/Practical%20Video.mp4)
